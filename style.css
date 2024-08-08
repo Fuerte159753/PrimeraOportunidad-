@@ -1,0 +1,12 @@
+.hola{
+    margin-top: 5%;
+    background: #d6d6d6;
+    padding: 8px 8px;
+}
+.hola:hover{
+    cursor: pointer;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
